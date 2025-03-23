@@ -1,4 +1,4 @@
-# Lucas
+# Lucas Moraes
 personal repository
 Hi, Lucas Moraes 👋👨‍💻
 
